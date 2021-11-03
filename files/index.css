@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+.wap{ max-width: 640px;
+    min-width: 320px; margin:0 auto; padding: 15px;padding-top:0;}
+
+.h_tit{ height:35px; line-height:35px; text-align:center; font-size:1rem; padding-top:0;}
+.main_c{ width:100%; margin-bottom:2px;}
+.main_c td{ height:35px; line-height:35px; font-size: .875rem;}
+.main_c td span{ letter-spacing:14px;}
+.col_666{ color:#666;} 
+
+.main_n{ width:100%; font-size: .875rem; position:relative;}
+.main_n th,.main_n td{ border:1px solid #999999; border-collapse:collapse; height:28px; line-height:28px; text-align:center;font-size: .875rem;}
+.main_n th{ color:#666;}
+.zhang{ position:absolute; right:0;width: 9.8em;height: 9.8em;bottom: -8.75em;}
+
+footer{ width:100%; line-height:18px; font-size:12px; color:#999; text-align:center; padding:3px 0; margin-top:8.75em; }
+
